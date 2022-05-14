@@ -1,0 +1,188 @@
+{
+    "menu": [
+        {
+            "name": "Cupcake Recipes",
+            "category": 2,
+            "img": "./img/menu_1.jpg",
+            "price": 20.00,
+            "variety": {
+                "variety1": [
+                    "Juice Fruit",
+                    "Vegetable",
+                    "Tomato"
+                ],
+                "variety2": [
+                    "Checken",
+                    "Milk",
+                    "Chilli"
+                ],
+                "variety3": [
+                    "Cherry",
+                    "Potato",
+                    "Sesame"
+                ]
+            }
+        },
+        {
+            "name": "Cupcake Recipes",
+            "category": 3,
+            "img": "./img/menu_2.jpg",
+            "price": 22.00,
+            "variety": {
+                "variety1": [
+                    "Juice Fruit",
+                    "Vegetable",
+                    "Tomato"
+                ],
+                "variety2": [
+                    "Checken",
+                    "Milk",
+                    "Chilli"
+                ],
+                "variety3": [
+                    "Cherry",
+                    "Potato",
+                    "Sesame"
+                ]
+            }
+        },
+        {
+            "name": "Cupcake Recipes",
+            "category": 1,
+            "img": "./img/menu_3.jpg",
+            "price": 17.00,
+            "variety": {
+                "variety1": [
+                    "Juice Fruit",
+                    "Vegetable",
+                    "Tomato"
+                ],
+                "variety2": [
+                    "Checken",
+                    "Milk",
+                    "Chilli"
+                ],
+                "variety3": [
+                    "Cherry",
+                    "Potato",
+                    "Sesame"
+                ]
+            }
+        },
+        {
+            "name": "Cupcake Recipes",
+            "category": 1,
+            "img": "./img/menu_4.jpg",
+            "price": 22.00,
+            "variety": {
+                "variety1": [
+                    "Juice Fruit",
+                    "Vegetable",
+                    "Tomato"
+                ],
+                "variety2": [
+                    "Checken",
+                    "Milk",
+                    "Chilli"
+                ],
+                "variety3": [
+                    "Cherry",
+                    "Potato",
+                    "Sesame"
+                ]
+            }
+        },
+        {
+            "name": "Cupcake Recipes",
+            "category": 5,
+            "img": "./img/menu_5.jpg",
+            "price": 25.00,
+            "variety": {
+                "variety1": [
+                    "Juice Fruit",
+                    "Vegetable",
+                    "Tomato"
+                ],
+                "variety2": [
+                    "Checken",
+                    "Milk",
+                    "Chilli"
+                ],
+                "variety3": [
+                    "Cherry",
+                    "Potato",
+                    "Sesame"
+                ]
+            }
+        },
+        {
+            "name": "Cupcake Recipes",
+            "category": 4,
+            "img": "./img/menu_6.jpg",
+            "price": 15.00,
+            "variety": {
+                "variety1": [
+                    "Juice Fruit",
+                    "Vegetable",
+                    "Tomato"
+                ],
+                "variety2": [
+                    "Checken",
+                    "Milk",
+                    "Chilli"
+                ],
+                "variety3": [
+                    "Cherry",
+                    "Potato",
+                    "Sesame"
+                ]
+            }
+        },
+        {
+            "name": "Cupcake Recipes",
+            "category": 5,
+            "img": "./img/menu_1.jpg",
+            "price": 20.00,
+            "variety": {
+                "variety1": [
+                    "Juice Fruit",
+                    "Vegetable",
+                    "Tomato"
+                ],
+                "variety2": [
+                    "Checken",
+                    "Milk",
+                    "Chilli"
+                ],
+                "variety3": [
+                    "Cherry",
+                    "Potato",
+                    "Sesame"
+                ]
+            }
+        },
+        {
+            "name": "Cupcake Recipes",
+            "category": 2,
+            "img": "./img/menu_2.jpg",
+            "price": 23.00,
+            "variety": {
+                "variety1": [
+                    "Juice Fruit",
+                    "Vegetable",
+                    "Tomato"
+                ],
+                "variety2": [
+                    "Checken",
+                    "Milk",
+                    "Chilli"
+                ],
+                "variety3": [
+                    "Cherry",
+                    "Potato",
+                    "Sesame"
+                ]
+            }
+        }
+    ]
+}
